@@ -6,8 +6,7 @@ Learn Android Studio in Chinese, organized by Android Studio 中文社区 [ www.
 <br/>英文教材存放在这里：http://ask.android-studio.org/?/question/788
 <br/>内容较多，希望大家一起努力，合作翻译之；
 <br/><br/>
-Android Studio 中文社区还有一些其他好东西，一起分享出来:
-
+Android Studio 中文社区还有一些其他好东西:
 <br/>Android Studio使用教程：http://ask.android-studio.org/?/explore/category-studio
 <br/>Android Studio视频教程：http://ask.android-studio.org/?/explore/category-video
 <br/>Android Studio开发指南：http://www.android-studio.org/index.php/docs/guide
